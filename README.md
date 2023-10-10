@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Diego-Cordeiro0406&color=006bed)
 
 <h3>Sobre mim</h3>
 
