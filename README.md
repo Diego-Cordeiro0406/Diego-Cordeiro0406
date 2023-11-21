@@ -3,7 +3,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Desenvolvimento web na <a href="[link da sua faculdade](https://www.betrybe.com/)">TRYBE</a>.
-- 🌱 &nbsp; Aprendendo mais sobre Fundamentos POO e Typescript.
+- 🌱 &nbsp; Aprendendo mais sobre Python.
 
 <h3>Minhas Skills</h3>
 
